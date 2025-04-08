@@ -1,0 +1,13 @@
+# Heyloo!
+## Its Newix
+### Tech Stack
+#### Fun Fact
+##### Code is like Humor
+###### Markdown
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hello, world!";
+```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
